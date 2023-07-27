@@ -1,6 +1,20 @@
 import yaml
 import os
+from util import *
+from importlib import import_module
+from dict_hash import sha256
+
 directory = os.path.dirname(os.path.realpath(__file__))
+
+# config info for input/output files and plugins
+config = {}
+try:
+    config = load_data("_config.yaml", type_check=False).get("auto-cite")
+    if not config:
+        raise Exception("Couldn't find auto-cite key in config")
+except Exception as e:
+    log(e, 3, "red")
+    exit(1)
 
 def format_authors(authors):
     return ", ".join(f"***{author}***" if "Qian Dong" in author else author for author in authors)
