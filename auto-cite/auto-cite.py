@@ -1,6 +1,9 @@
 from util import *
 from importlib import import_module
 from dict_hash import sha256
+import os
+
+directory = os.path.dirname(os.path.realpath(__file__))
 
 # config info for input/output files and plugins
 config = {}
@@ -193,7 +196,8 @@ yaml_data = open(config["output"], encoding="utf8")
 parsed_data = yaml.safe_load(yaml_data)
 parsed_data = parse_yaml_to_markdown(parsed_data)
 
-file_path = "./about.md"
+file_path = "../_pages/about.md"
+file_path = os.path.join(directory, file_path)
 markdown_text = replace_publications_and_awards_content(file_path, parsed_data)
 
 # Save the final Markdown output to "output.md" file
