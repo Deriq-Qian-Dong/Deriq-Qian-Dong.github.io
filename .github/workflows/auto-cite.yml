@@ -3,7 +3,7 @@ run-name: Auto Cite 🚀
 on: [push]
       
 jobs:
-  build-linux:
+  update-publication:
     runs-on: ubuntu-latest
     strategy:
       max-parallel: 5
@@ -27,4 +27,10 @@ jobs:
         with:
           file_pattern: "_data/citations.yaml"
           commit_message: "Generate citations"
+          push_options: --force
+      - name: Commit updated about.md
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: "_pages/about.md"
+          commit_message: "Update publications"
           push_options: --force
