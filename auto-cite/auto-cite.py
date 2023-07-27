@@ -189,7 +189,7 @@ def replace_publications_and_awards_content(input_file_path, new_content):
 
     return updated_about_content
 
-yaml_data = open('../_data/citations.yaml', 'w', encoding="utf8")
+yaml_data = open(config["output"], encoding="utf8")
 parsed_data = yaml.safe_load(yaml_data)
 parsed_data = parse_yaml_to_markdown(parsed_data)
 
