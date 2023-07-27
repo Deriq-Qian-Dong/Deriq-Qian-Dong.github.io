@@ -193,7 +193,7 @@ yaml_data = open(config["output"], encoding="utf8")
 parsed_data = yaml.safe_load(yaml_data)
 parsed_data = parse_yaml_to_markdown(parsed_data)
 
-file_path = "../_pages/about.md"
+file_path = "about.md"
 markdown_text = replace_publications_and_awards_content(file_path, parsed_data)
 
 # Save the final Markdown output to "output.md" file
