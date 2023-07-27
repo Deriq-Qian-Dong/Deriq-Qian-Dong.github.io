@@ -121,19 +121,3 @@
   date: '2023-01-01'
   link: https://doi.org/gsfjrr
   _cache: a306610a996e1ca20be5484b82286a40c9277ba1847eecf4700e75780810b2bf
-- id: doi:10.48550/arXiv.2306.02371
-  title: 'I^3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
-    Models for Passage Retrieval'
-  authors:
-  - Qian Dong
-  - Yiding Liu
-  - Qingyao Ai
-  - Haitao Li
-  - Shuaiqiang Wang
-  - Yiqun Liu
-  - Dawei Yin
-  - Shaoping Ma
-  publisher: arXiv
-  date: '2023-01-01'
-  link: https://doi.org/gsfjp5
-  _cache: d82c11bf28769a22d492083f50e74a72db310b373523b5ae9e75fa1d35e8a9ca
