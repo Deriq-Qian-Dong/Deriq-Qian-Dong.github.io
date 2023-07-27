@@ -31,50 +31,59 @@ Experience
 Publications
 ======
 
-| **I<sup>3</sup>Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval.**|
+## 2023
+
+| **Layout-aware Webpage Quality Assessment** |
 | :------ |
-| ***Qian Dong***, Yiding Liu, Qingyao Ai, Haitao Li, Shuaiqiang Wang, Yiqun Liu, Dawei Yin, Shaoping Ma. |
-| arXiv. [\[Paper\]](https://arxiv.org/abs/2306.02371)|
+| Anfeng Cheng, Yiding Liu, Weibin Li, ***Qian Dong***, Shuaiqiang Wang, Zhengjie Huang, Shikun Feng, Zhicong Cheng, Dawei Yin |
+| arXiv. [\[Paper\]](https://doi.org/gsh8pz) |
 
-| **T<sup>2</sup>Ranking: A large-scale Chinese Benchmark for Passage Ranking.**| 
-| :------ |  
-| Xiaohui Xie, ***Qian Dong***, Bingning Wang, Feiyang Lv, Ting Yao, Weinan Gan, Zhijing Wu, Xiangsheng Li, Haitao Li, Yiqun Liu, Jin Ma. |  
-| SIGIR 2023 (Resource, CCF-A). [\[Paper\]](https://arxiv.org/pdf/2304.03679)| 
+| **Social4Rec: Distilling User Preference from Social Graph for Video Recommendation in Tencent** |
+| :------ |
+| Xuanji Xiao, Huaqiang Dai, ***Qian Dong***, Shuzi Niu, Yuzhen Liu, Pei Liu |
+| arXiv. [\[Paper\]](https://doi.org/gsh8p2) |
 
-| **SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval.**| 
-| :------ |  
-| Haitao Li, Qingyao Ai, Jia Chen, ***Qian Dong***, Yueyue Wu, Yiqun Liu, Chong Chen, Qi Tian. |  
-| SIGIR 2023 (Full, CCF-A). [\[Paper\]](https://arxiv.org/abs/2304.11370)| 
+| **T2Ranking: A large-scale Chinese Benchmark for Passage Ranking** |
+| :------ |
+| Xiaohui Xie, ***Qian Dong***, Bingning Wang, Feiyang Lv, Ting Yao, Weinan Gan, Zhijing Wu, Xiangsheng Li, Haitao Li, Yiqun Liu, Jin Ma |
+| arXiv. [\[Paper\]](https://doi.org/gsfjp6) |
 
-| **Layout-aware Webpage Quality Assessment.**| 
-| :------ |  
-| Anfeng Cheng, Yiding Liu, Weibin Li, ***Qian Dong***, Shuaiqiang Wang, Zhengjie Huang, Shikun Feng, Zhicong Cheng and Dawei Yin. |  
-| arXiv. [\[Paper\]](https://arxiv.org/pdf/2301.12152)| 
+| **SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval** |
+| :------ |
+| Haitao Li, Qingyao Ai, Jia Chen, ***Qian Dong***, Yueyue Wu, Yiqun Liu, Chong Chen, Qi Tian |
+| arXiv. [\[Paper\]](https://doi.org/gsfjrr) |
 
-| **Incorporating Explicit Knowledge in Pre-trained Language Models for Passage Re-ranking.**|  
-| :------ |  
-| ***Qian Dong***, Yiding Liu, Suqi Cheng, Shuaiqiang Wang, Zhicong Cheng, Shuzi Niu, Dawei Yin. |  
-| SIGIR 2022 (Full, CCF-A). [\[Paper\]](https://Deriq-Qian-Dong.github.io/files/KERM.pdf)| 
+## 2022
 
-| **Legal Judgment Prediction via Relational Learning.**|  
-| :------ |  
-| ***Qian Dong***, Shuzi Niu. |  
-| SIGIR 2021 (Full, CCF-A). [\[Paper\]](https://Deriq-Qian-Dong.github.io/files/LJP.pdf)| 
+| **Incorporating Explicit Knowledge in Pre-trained Language Models for Passage Re-ranking** |
+| :------ |
+| ***Qian Dong***, Yiding Liu, Suqi Cheng, Shuaiqiang Wang, Zhicong Cheng, Shuzi Niu, Dawei Yin |
+| Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. [\[Paper\]](https://doi.org/gsh8px) |
 
-| **Latent Graph Recurrent Network for Document Ranking.**|  
-| :------ |  
-| ***Qian Dong***, Shuzi Niu. |  
-| DASFAA 2021 (Full, CCF-B). [\[Paper\]](https://Deriq-Qian-Dong.github.io/files/LGRe.pdf)| 
+| **Disentangled Graph Recurrent Network for Document Ranking** |
+| :------ |
+| ***Qian Dong***, Shuzi Niu, Tao Yuan, Yucheng Li |
+| Data Science and Engineering. [\[Paper\]](https://doi.org/gsh8pw) |
 
-| **Disentangled Graph Recurrent Network for Document Ranking.**|  
-| :------ |  
-| ***Qian Dong***, Shuzi Niu, Yucheng Li. |  
-| DASFAA Special Issue 2021 (Journal, EI). [\[Paper\]](https://Deriq-Qian-Dong.github.io/files/DGRe.pdf)| 
+## 2021
 
-| **Emotion recognition based on multi-view body gestures.**|  
-| :------ |  
-| Zhijuan Shen, Jun Cheng, Xiping Hu, ***Qian Dong***. |  
-| ICIP 2021 (Short, CCF-C). [\[Paper\]](https://Deriq-Qian-Dong.github.io/files/MBGD.pdf)| 
+| **Legal Judgment Prediction via Relational Learning** |
+| :------ |
+| ***Qian Dong***, Shuzi Niu |
+| Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. [\[Paper\]](https://doi.org/gq4w8t) |
+
+| **Latent Graph Recurrent Network for Document Ranking** |
+| :------ |
+| ***Qian Dong***, Shuzi Niu |
+| Database Systems for Advanced Applications. [\[Paper\]](https://doi.org/gsh8ps) |
+
+## 2019
+
+| **Emotion Recognition Based on Multi-View Body Gestures** |
+| :------ |
+| Zhijuan Shen, Jun Cheng, Xiping Hu, ***Qian Dong*** |
+| 2019 IEEE International Conference on Image Processing (ICIP). [\[Paper\]](https://doi.org/ghjxdq) |
+
 
 
 Honor and Awards
