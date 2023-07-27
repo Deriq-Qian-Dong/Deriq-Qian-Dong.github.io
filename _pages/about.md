@@ -43,7 +43,7 @@ Publications
 | Xuanji Xiao, Huaqiang Dai, ***Qian Dong***, Shuzi Niu, Yuzhen Liu, Pei Liu |
 | arXiv. [\[Paper\]](https://doi.org/gsh8p2) |
 
-| **T2Ranking: A large-scale Chinese Benchmark for Passage Ranking** |
+| **T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking** |
 | :------ |
 | Xiaohui Xie, ***Qian Dong***, Bingning Wang, Feiyang Lv, Ting Yao, Weinan Gan, Zhijing Wu, Xiangsheng Li, Haitao Li, Yiqun Liu, Jin Ma |
 | arXiv. [\[Paper\]](https://doi.org/gsfjp6) |
@@ -53,7 +53,7 @@ Publications
 | Haitao Li, Qingyao Ai, Jia Chen, ***Qian Dong***, Yueyue Wu, Yiqun Liu, Chong Chen, Qi Tian |
 | arXiv. [\[Paper\]](https://doi.org/gsfjrr) |
 
-| **I^3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval** |
+| **I<sup>3</sup>Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval** |
 | :------ |
 | ***Qian Dong***, Yiding Liu, Qingyao Ai, Haitao Li, Shuaiqiang Wang, Yiqun Liu, Dawei Yin, Shaoping Ma |
 | arXiv. [\[Paper\]](https://doi.org/gsfjp5) |
