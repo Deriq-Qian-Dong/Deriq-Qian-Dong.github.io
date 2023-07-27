@@ -1,15 +1,6 @@
 name: Auto Cite
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
-on:
-  push:
-    branches:
-      - main
-    paths:
-      - "_data/sources.yaml"
-  pull_request:
-    paths:
-      - "_data/sources.yaml"
-      
+on: [push]
       
 jobs:
   Explore-GitHub-Actions:
