@@ -19,6 +19,9 @@ jobs:
       - name: Build updated citations
         run: python ./auto-cite/auto-cite.py
         timeout-minutes: 15
+      - name: Update about.md
+        run: python ./auto-cite/parse.py
+        timeout-minutes: 15
       - name: Commit updated citations
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
