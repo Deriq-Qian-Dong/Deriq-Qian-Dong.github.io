@@ -53,6 +53,11 @@ Publications
 | Haitao Li, Qingyao Ai, Jia Chen, ***Qian Dong***, Yueyue Wu, Yiqun Liu, Chong Chen, Qi Tian |
 | arXiv. [\[Paper\]](https://doi.org/gsfjrr) |
 
+| **I^3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval** |
+| :------ |
+| ***Qian Dong***, Yiding Liu, Qingyao Ai, Haitao Li, Shuaiqiang Wang, Yiqun Liu, Dawei Yin, Shaoping Ma |
+| arXiv. [\[Paper\]](https://doi.org/gsfjp5) |
+
 ## 2022
 
 | **Incorporating Explicit Knowledge in Pre-trained Language Models for Passage Re-ranking** |
