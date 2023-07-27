@@ -58,40 +58,6 @@
   date: '2022-07-06'
   link: https://doi.org/gsh8px
   _cache: fd1d6920779224649e88be952bd1512838f6b064dd8b95543d19860ccca6324b
-- id: doi:10.48550/arXiv.2306.02371
-  title: 'I<sup>3</sup>Retriever: Incorporating Implicit Interaction in Pre-trained
-    Language Models for Passage Retrieval'
-  authors:
-  - Qian Dong
-  - Yiding Liu
-  - Qingyao Ai
-  - Haitao Li
-  - Shuaiqiang Wang
-  - Yiqun Liu
-  - Dawei Yin
-  - Shaoping Ma
-  publisher: arXiv
-  date: '2023-01-01'
-  link: https://doi.org/gsfjp5
-  _cache: d82c11bf28769a22d492083f50e74a72db310b373523b5ae9e75fa1d35e8a9ca
-- id: doi:10.48550/arXiv.2304.03679
-  title: 'T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking'
-  authors:
-  - Xiaohui Xie
-  - Qian Dong
-  - Bingning Wang
-  - Feiyang Lv
-  - Ting Yao
-  - Weinan Gan
-  - Zhijing Wu
-  - Xiangsheng Li
-  - Haitao Li
-  - Yiqun Liu
-  - Jin Ma
-  publisher: arXiv
-  date: '2023-01-01'
-  link: https://doi.org/gsfjp6
-  _cache: bd2c692f25c4b141a39b7bd8db0b6a8452ef194ce9ef1bde0e8e848400889553
 - id: doi:10.48550/arXiv.2301.12152
   title: Layout-aware Webpage Quality Assessment
   authors:
@@ -122,6 +88,24 @@
   date: '2023-01-01'
   link: https://doi.org/gsh8p2
   _cache: 9555cb97cb51760c6020f303606361619609731571d3dc1645c519151c751183
+- id: doi:10.48550/arXiv.2304.03679
+  title: 'T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking'
+  authors:
+  - Xiaohui Xie
+  - Qian Dong
+  - Bingning Wang
+  - Feiyang Lv
+  - Ting Yao
+  - Weinan Gan
+  - Zhijing Wu
+  - Xiangsheng Li
+  - Haitao Li
+  - Yiqun Liu
+  - Jin Ma
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gsfjp6
+  _cache: bd2c692f25c4b141a39b7bd8db0b6a8452ef194ce9ef1bde0e8e848400889553
 - id: doi:10.48550/arXiv.2304.11370
   title: 'SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval'
   authors:
@@ -137,3 +121,19 @@
   date: '2023-01-01'
   link: https://doi.org/gsfjrr
   _cache: a306610a996e1ca20be5484b82286a40c9277ba1847eecf4700e75780810b2bf
+- id: doi:10.48550/arXiv.2306.02371
+  title: 'I<sup>3</sup>Retriever: Incorporating Implicit Interaction in Pre-trained
+    Language Models for Passage Retrieval'
+  authors:
+  - Qian Dong
+  - Yiding Liu
+  - Qingyao Ai
+  - Haitao Li
+  - Shuaiqiang Wang
+  - Yiqun Liu
+  - Dawei Yin
+  - Shaoping Ma
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gsfjp5
+  _cache: d82c11bf28769a22d492083f50e74a72db310b373523b5ae9e75fa1d35e8a9ca
