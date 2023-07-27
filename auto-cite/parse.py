@@ -75,7 +75,7 @@ parsed_data = parse_yaml_to_markdown(parsed_data)
 file_path = "../_pages/about.md"
 file_path = os.path.join(directory, file_path)
 markdown_text = replace_publications_and_awards_content(file_path, parsed_data)
-
+print(markdown_text)
 # Save the final Markdown output to "output.md" file
 with open(file_path, "w", encoding="utf-8") as file:
     file.write(markdown_text)
