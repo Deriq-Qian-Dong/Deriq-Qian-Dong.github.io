@@ -88,8 +88,8 @@
   date: '2023-01-01'
   link: https://doi.org/gsh8p2
   _cache: 9555cb97cb51760c6020f303606361619609731571d3dc1645c519151c751183
-- id: doi:10.48550/arXiv.2304.03679
-  title: 'T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking'
+- id: doi:10.1145/3539618.3591874
+  title: 'T2Ranking: A Large-scale Chinese Benchmark for Passage Ranking'
   authors:
   - Xiaohui Xie
   - Qian Dong
@@ -102,11 +102,12 @@
   - Haitao Li
   - Yiqun Liu
   - Jin Ma
-  publisher: arXiv
-  date: '2023-01-01'
-  link: https://doi.org/gsfjp6
-  _cache: bd2c692f25c4b141a39b7bd8db0b6a8452ef194ce9ef1bde0e8e848400889553
-- id: doi:10.48550/arXiv.2304.11370
+  publisher: Proceedings of the 46th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2023-07-18'
+  link: https://doi.org/gsjb5w
+  _cache: 7ff3536421f1cc64d4c7acd45ae4f79b8eadf54d633a5101173b644334ff73df
+- id: doi:10.1145/3539618.3591761
   title: 'SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval'
   authors:
   - Haitao Li
@@ -117,10 +118,11 @@
   - Yiqun Liu
   - Chong Chen
   - Qi Tian
-  publisher: arXiv
-  date: '2023-01-01'
-  link: https://doi.org/gsfjrr
-  _cache: a306610a996e1ca20be5484b82286a40c9277ba1847eecf4700e75780810b2bf
+  publisher: Proceedings of the 46th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2023-07-18'
+  link: https://doi.org/gsjb5x
+  _cache: f75b58a1d443fc51b3f6bf35dfe147028136de33aadc67328512570880056c1a
 - id: doi:10.48550/arXiv.2306.02371
   title: 'I<sup>3</sup>Retriever: Incorporating Implicit Interaction in Pre-trained
     Language Models for Passage Retrieval'
