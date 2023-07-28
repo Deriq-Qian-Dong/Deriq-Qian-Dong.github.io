@@ -33,6 +33,16 @@ Publications
 
 ## 2023
 
+| **T2Ranking: A Large-scale Chinese Benchmark for Passage Ranking** |
+| :------ |
+| Xiaohui Xie, ***Qian Dong***, Bingning Wang, Feiyang Lv, Ting Yao, Weinan Gan, Zhijing Wu, Xiangsheng Li, Haitao Li, Yiqun Liu, Jin Ma |
+| Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. [\[Paper\]](https://doi.org/gsjb5w) |
+
+| **SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval** |
+| :------ |
+| Haitao Li, Qingyao Ai, Jia Chen, ***Qian Dong***, Yueyue Wu, Yiqun Liu, Chong Chen, Qi Tian |
+| Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. [\[Paper\]](https://doi.org/gsjb5x) |
+
 | **Layout-aware Webpage Quality Assessment** |
 | :------ |
 | Anfeng Cheng, Yiding Liu, Weibin Li, ***Qian Dong***, Shuaiqiang Wang, Zhengjie Huang, Shikun Feng, Zhicong Cheng, Dawei Yin |
@@ -42,16 +52,6 @@ Publications
 | :------ |
 | Xuanji Xiao, Huaqiang Dai, ***Qian Dong***, Shuzi Niu, Yuzhen Liu, Pei Liu |
 | arXiv. [\[Paper\]](https://doi.org/gsh8p2) |
-
-| **T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking** |
-| :------ |
-| Xiaohui Xie, ***Qian Dong***, Bingning Wang, Feiyang Lv, Ting Yao, Weinan Gan, Zhijing Wu, Xiangsheng Li, Haitao Li, Yiqun Liu, Jin Ma |
-| arXiv. [\[Paper\]](https://doi.org/gsfjp6) |
-
-| **SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval** |
-| :------ |
-| Haitao Li, Qingyao Ai, Jia Chen, ***Qian Dong***, Yueyue Wu, Yiqun Liu, Chong Chen, Qi Tian |
-| arXiv. [\[Paper\]](https://doi.org/gsfjrr) |
 
 | **I<sup>3</sup>Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval** |
 | :------ |
