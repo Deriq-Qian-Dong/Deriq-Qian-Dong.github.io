@@ -31,7 +31,7 @@ Experience
 Publications
 ======
 
-## 2023
+<h2 align='center'>2023</h2>
 
 | **T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking** |
 | :------ |
@@ -58,7 +58,7 @@ Publications
 | ***Qian Dong***, Yiding Liu, Qingyao Ai, Haitao Li, Shuaiqiang Wang, Yiqun Liu, Dawei Yin, Shaoping Ma |
 | arXiv. [\[Paper\]](https://doi.org/gsfjp5) |
 
-## 2022
+<h2 align='center'>2022</h2>
 
 | **Incorporating Explicit Knowledge in Pre-trained Language Models for Passage Re-ranking** |
 | :------ |
@@ -70,7 +70,7 @@ Publications
 | ***Qian Dong***, Shuzi Niu, Tao Yuan, Yucheng Li |
 | Data Science and Engineering. [\[Paper\]](https://doi.org/gsh8pw) |
 
-## 2021
+<h2 align='center'>2021</h2>
 
 | **Legal Judgment Prediction via Relational Learning** |
 | :------ |
@@ -82,7 +82,7 @@ Publications
 | ***Qian Dong***, Shuzi Niu |
 | Database Systems for Advanced Applications. [\[Paper\]](https://doi.org/gsh8ps) |
 
-## 2019
+<h2 align='center'>2019</h2>
 
 | **Emotion Recognition Based on Multi-View Body Gestures** |
 | :------ |
