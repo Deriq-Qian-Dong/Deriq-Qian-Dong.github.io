@@ -89,7 +89,7 @@
   link: https://doi.org/gsh8p2
   _cache: 9555cb97cb51760c6020f303606361619609731571d3dc1645c519151c751183
 - id: doi:10.1145/3539618.3591874
-  title: 'T2Ranking: A Large-scale Chinese Benchmark for Passage Ranking'
+  title: 'T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking'
   authors:
   - Xiaohui Xie
   - Qian Dong
