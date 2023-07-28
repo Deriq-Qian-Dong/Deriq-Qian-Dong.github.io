@@ -36,7 +36,8 @@ def parse_yaml_to_markdown(yaml_data):
 
     # Generate Markdown text with grouped data
     for year, entries in grouped_data.items():
-        markdown_text += f"## {year}\n\n"
+        # markdown_text += f"## {year}\n\n"
+        markdown_text += f"<h2 align='center'>{year}</h2>\n\n"
         for entry in entries:
             title = entry['title']
             authors = format_authors(entry['authors'])
