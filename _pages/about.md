@@ -33,7 +33,7 @@ Publications
 
 ## 2023
 
-| **T2Ranking: A Large-scale Chinese Benchmark for Passage Ranking** |
+| **T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking** |
 | :------ |
 | Xiaohui Xie, ***Qian Dong***, Bingning Wang, Feiyang Lv, Ting Yao, Weinan Gan, Zhijing Wu, Xiangsheng Li, Haitao Li, Yiqun Liu, Jin Ma |
 | Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. [\[Paper\]](https://doi.org/gsjb5w) |
