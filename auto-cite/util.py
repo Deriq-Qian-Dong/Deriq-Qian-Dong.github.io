@@ -109,6 +109,8 @@ def load_data(filename, type_check=True):
 
 def save_bibtex(doi, bibtex):
     path = os.path.join(directory, "../_data/bibtexs",doi)
+    print(path)
+    print(bibtex)
     with open(path, "w") as f:
         f.writelines(bibtex)
 
