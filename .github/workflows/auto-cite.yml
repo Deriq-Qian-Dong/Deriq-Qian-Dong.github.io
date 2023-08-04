@@ -34,3 +34,9 @@ jobs:
           file_pattern: "_pages/about.md"
           commit_message: "Update publications"
           push_options: --force
+      - name: Commit updated bibtex
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: "_data/bibtexs/*"
+          commit_message: "Update bibtexs"
+          push_options: --force
