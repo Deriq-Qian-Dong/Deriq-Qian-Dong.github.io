@@ -107,6 +107,10 @@ def load_data(filename, type_check=True):
     # if no errors, return data
     return data
 
+def save_bibtex(doi, bibtex):
+    path = os.path.join(directory, doi)
+    with open(path, "w") as f:
+        f.writelines(bibtex)
 
 # write yaml data to file
 def save_data(filename, data):
