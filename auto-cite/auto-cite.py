@@ -3,6 +3,18 @@ from importlib import import_module
 from dict_hash import sha256
 import os
 
+import requests
+
+def get_bibtex_from_doi(doi):
+    url = f'https://doi.org/{doi}'
+    headers = {'Accept': 'application/x-bibtex'}
+    response = requests.get(url, headers=headers)
+    if response.status_code == 200:
+        return response.text
+    else:
+        print(f"Error: Unable to get BibTeX for DOI: {doi}")
+        return 'None'
+
 directory = os.path.dirname(os.path.realpath(__file__))
 
 # config info for input/output files and plugins
@@ -97,6 +109,9 @@ for index, source in enumerate(sources):
     elif source.get("id", "").strip():
         # use Manubot to generate new citation
         log("Using Manubot to generate new citation", 3)
+        doi = source.get("id", "").strip()
+        bibtex = get_bibtex_from_doi(doi)
+        save_bibtex(doi, bibtex)
         try:
             new_citation = cite_with_manubot(source)
         # if Manubot couldn't cite source
