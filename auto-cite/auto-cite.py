@@ -105,6 +105,9 @@ for index, source in enumerate(sources):
         # use existing citation to save time
         log("Using existing citation", 3)
         new_citation = cached
+        doi = source.get("id", "").strip()
+        bibtex = get_bibtex_from_doi(doi)
+        save_bibtex(doi, bibtex)
 
     elif source.get("id", "").strip():
         # use Manubot to generate new citation
