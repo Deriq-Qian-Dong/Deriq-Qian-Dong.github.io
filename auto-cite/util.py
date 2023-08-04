@@ -108,7 +108,7 @@ def load_data(filename, type_check=True):
     return data
 
 def save_bibtex(doi, bibtex):
-    path = os.path.join(directory, "../files/bibtexs",doi)
+    path = os.path.join(directory, "../files/bibtexs",doi+'.txt')
     print(path)
     print(bibtex)
     if not os.path.exists(path):
