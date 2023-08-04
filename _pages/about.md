@@ -36,58 +36,58 @@ Publications
 | **T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking** |
 | :------ |
 | Xiaohui Xie, ***Qian Dong***, Bingning Wang, Feiyang Lv, Ting Yao, Weinan Gan, Zhijing Wu, Xiangsheng Li, Haitao Li, Yiqun Liu, Jin Ma |
-| Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. [\[Paper\]](https://doi.org/gsjb5w) [\[BibTeX\]](_data/bibtexs/doi:10.1145/3539618.3591874) |
+| Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. [\[Paper\]](https://doi.org/gsjb5w) [\[BibTeX\]](../_data/bibtexs/doi:10.1145/3539618.3591874) |
 
 | **SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval** |
 | :------ |
 | Haitao Li, Qingyao Ai, Jia Chen, ***Qian Dong***, Yueyue Wu, Yiqun Liu, Chong Chen, Qi Tian |
-| Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. [\[Paper\]](https://doi.org/gsjb5x) [\[BibTeX\]](_data/bibtexs/doi:10.1145/3539618.3591761) |
+| Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. [\[Paper\]](https://doi.org/gsjb5x) [\[BibTeX\]](../_data/bibtexs/doi:10.1145/3539618.3591761) |
 
 | **Layout-aware Webpage Quality Assessment** |
 | :------ |
 | Anfeng Cheng, Yiding Liu, Weibin Li, ***Qian Dong***, Shuaiqiang Wang, Zhengjie Huang, Shikun Feng, Zhicong Cheng, Dawei Yin |
-| arXiv. [\[Paper\]](https://doi.org/gsh8pz) [\[BibTeX\]](_data/bibtexs/doi:10.48550/arXiv.2301.12152) |
+| arXiv. [\[Paper\]](https://doi.org/gsh8pz) [\[BibTeX\]](../_data/bibtexs/doi:10.48550/arXiv.2301.12152) |
 
 | **Social4Rec: Distilling User Preference from Social Graph for Video Recommendation in Tencent** |
 | :------ |
 | Xuanji Xiao, Huaqiang Dai, ***Qian Dong***, Shuzi Niu, Yuzhen Liu, Pei Liu |
-| arXiv. [\[Paper\]](https://doi.org/gsh8p2) [\[BibTeX\]](_data/bibtexs/doi:10.48550/arXiv.2302.09971) |
+| arXiv. [\[Paper\]](https://doi.org/gsh8p2) [\[BibTeX\]](../_data/bibtexs/doi:10.48550/arXiv.2302.09971) |
 
 | **I<sup>3</sup>Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval** |
 | :------ |
 | ***Qian Dong***, Yiding Liu, Qingyao Ai, Haitao Li, Shuaiqiang Wang, Yiqun Liu, Dawei Yin, Shaoping Ma |
-| arXiv. [\[Paper\]](https://doi.org/gsfjp5) [\[BibTeX\]](_data/bibtexs/doi:10.48550/arXiv.2306.02371) |
+| arXiv. [\[Paper\]](https://doi.org/gsfjp5) [\[BibTeX\]](../_data/bibtexs/doi:10.48550/arXiv.2306.02371) |
 
 <h2 align='center'>2022</h2>
 
 | **Incorporating Explicit Knowledge in Pre-trained Language Models for Passage Re-ranking** |
 | :------ |
 | ***Qian Dong***, Yiding Liu, Suqi Cheng, Shuaiqiang Wang, Zhicong Cheng, Shuzi Niu, Dawei Yin |
-| Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. [\[Paper\]](https://doi.org/gsh8px) [\[BibTeX\]](_data/bibtexs/doi:10.1145/3477495.3531997) |
+| Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. [\[Paper\]](https://doi.org/gsh8px) [\[BibTeX\]](../_data/bibtexs/doi:10.1145/3477495.3531997) |
 
 | **Disentangled Graph Recurrent Network for Document Ranking** |
 | :------ |
 | ***Qian Dong***, Shuzi Niu, Tao Yuan, Yucheng Li |
-| Data Science and Engineering. [\[Paper\]](https://doi.org/gsh8pw) [\[BibTeX\]](_data/bibtexs/doi:10.1007/s41019-022-00179-3) |
+| Data Science and Engineering. [\[Paper\]](https://doi.org/gsh8pw) [\[BibTeX\]](../_data/bibtexs/doi:10.1007/s41019-022-00179-3) |
 
 <h2 align='center'>2021</h2>
 
 | **Legal Judgment Prediction via Relational Learning** |
 | :------ |
 | ***Qian Dong***, Shuzi Niu |
-| Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. [\[Paper\]](https://doi.org/gq4w8t) [\[BibTeX\]](_data/bibtexs/doi:10.1145/3404835.3462931) |
+| Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. [\[Paper\]](https://doi.org/gq4w8t) [\[BibTeX\]](../_data/bibtexs/doi:10.1145/3404835.3462931) |
 
 | **Latent Graph Recurrent Network for Document Ranking** |
 | :------ |
 | ***Qian Dong***, Shuzi Niu |
-| Database Systems for Advanced Applications. [\[Paper\]](https://doi.org/gsh8ps) [\[BibTeX\]](_data/bibtexs/doi:10.1007/978-3-030-73197-7_6) |
+| Database Systems for Advanced Applications. [\[Paper\]](https://doi.org/gsh8ps) [\[BibTeX\]](../_data/bibtexs/doi:10.1007/978-3-030-73197-7_6) |
 
 <h2 align='center'>2019</h2>
 
 | **Emotion Recognition Based on Multi-View Body Gestures** |
 | :------ |
 | Zhijuan Shen, Jun Cheng, Xiping Hu, ***Qian Dong*** |
-| 2019 IEEE International Conference on Image Processing (ICIP). [\[Paper\]](https://doi.org/ghjxdq) [\[BibTeX\]](_data/bibtexs/doi:10.1109/ICIP.2019.8803460) |
+| 2019 IEEE International Conference on Image Processing (ICIP). [\[Paper\]](https://doi.org/ghjxdq) [\[BibTeX\]](../_data/bibtexs/doi:10.1109/ICIP.2019.8803460) |
 
 
 
