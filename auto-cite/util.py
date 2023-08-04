@@ -111,8 +111,12 @@ def save_bibtex(doi, bibtex):
     path = os.path.join(directory, "../_data/bibtexs",doi)
     print(path)
     print(bibtex)
-    with open(path, "w") as f:
-        f.writelines(bibtex)
+    if not os.path.exists(path):
+        path_dir = os.path.dirname(path)
+        if not os.path.exists(path_dir):
+            os.makedirs(path_dir)
+        with open(path, "w") as f:
+            f.writelines(bibtex)
 
 # write yaml data to file
 def save_data(filename, data):
