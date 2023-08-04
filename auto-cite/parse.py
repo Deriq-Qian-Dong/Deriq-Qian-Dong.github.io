@@ -49,7 +49,7 @@ def parse_yaml_to_markdown(yaml_data):
             markdown_text += f"| **{title}** |\n"
             markdown_text += "| :------ |\n"
             markdown_text += f"| {authors} |\n"
-            markdown_text += f"| {publisher}. [\\[Paper\\]]({link}) [\\[BibTeX\\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/{doi}) |\n\n"
+            markdown_text += f"| {publisher}. [\\[Paper\\]]({link}) [\\[BibTeX\\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/{doi}.txt) |\n\n"
 
     return markdown_text
 
