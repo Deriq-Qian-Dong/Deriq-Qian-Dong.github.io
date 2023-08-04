@@ -1,0 +1,13 @@
+@article{Dong_2022,
+	doi = {10.1007/s41019-022-00179-3},
+	url = {https://doi.org/10.1007%2Fs41019-022-00179-3},
+	year = 2022,
+	month = {feb},
+	publisher = {Springer Science and Business Media {LLC}},
+	volume = {7},
+	number = {1},
+	pages = {30--43},
+	author = {Qian Dong and Shuzi Niu and Tao Yuan and Yucheng Li},
+	title = {Disentangled Graph Recurrent Network for Document Ranking},
+	journal = {Data Science and Engineering}
+}

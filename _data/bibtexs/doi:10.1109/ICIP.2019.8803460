@@ -1,0 +1,10 @@
+@inproceedings{Shen_2019,
+	doi = {10.1109/icip.2019.8803460},
+	url = {https://doi.org/10.1109%2Ficip.2019.8803460},
+	year = 2019,
+	month = {sep},
+	publisher = {{IEEE}},
+	author = {Zhijuan Shen and Jun Cheng and Xiping Hu and Qian Dong},
+	title = {Emotion Recognition Based on Multi-View Body Gestures},
+	booktitle = {2019 {IEEE} International Conference on Image Processing ({ICIP})}
+}
