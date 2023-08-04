@@ -37,6 +37,6 @@ jobs:
       - name: Commit updated bibtex
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          file_pattern: "_data/bibtexs/*"
+          file_pattern: "files/bibtexs/*"
           commit_message: "Update bibtexs"
           push_options: --force
