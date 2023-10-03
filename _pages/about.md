@@ -58,6 +58,11 @@ Publications
 | ***Qian Dong***, Yiding Liu, Qingyao Ai, Haitao Li, Shuaiqiang Wang, Yiqun Liu, Dawei Yin, Shaoping Ma |
 | arXiv. [\[Paper\]](https://doi.org/gsfjp5) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.48550/arXiv.2306.02371.txt) |
 
+| **Aligning the Capabilities of Large Language Models with the Context of Information Retrieval via Contrastive Feedback** |
+| :------ |
+| ***Qian Dong***, Yiding Liu, Qingyao Ai, Zhijing Wu, Haitao Li, Yiqun Liu, Shuaiqiang Wang, Dawei Yin, Shaoping Ma |
+| arXiv. [\[Paper\]](https://doi.org/gss8w3) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.48550/arXiv.2309.17078.txt) |
+
 <h2 align='center'>2022</h2>
 
 | **Incorporating Explicit Knowledge in Pre-trained Language Models for Passage Re-ranking** |
