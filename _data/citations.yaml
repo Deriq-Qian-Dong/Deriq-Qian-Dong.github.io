@@ -139,3 +139,20 @@
   date: '2023-01-01'
   link: https://doi.org/gsfjp5
   _cache: d82c11bf28769a22d492083f50e74a72db310b373523b5ae9e75fa1d35e8a9ca
+- id: doi:10.48550/arXiv.2309.17078
+  title: Aligning the Capabilities of Large Language Models with the Context of Information
+    Retrieval via Contrastive Feedback
+  authors:
+  - Qian Dong
+  - Yiding Liu
+  - Qingyao Ai
+  - Zhijing Wu
+  - Haitao Li
+  - Yiqun Liu
+  - Shuaiqiang Wang
+  - Dawei Yin
+  - Shaoping Ma
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gss8w3
+  _cache: 78787f712a3a97b1f4e10b53f4e55ce94e903bba8f761576439472836f6e28a5
