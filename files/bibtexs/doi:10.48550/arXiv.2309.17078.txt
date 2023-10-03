@@ -1,0 +1,10 @@
+@misc{https://doi.org/10.48550/arxiv.2309.17078,
+  doi = {10.48550/ARXIV.2309.17078},
+  url = {https://arxiv.org/abs/2309.17078},
+  author = {Dong, Qian and Liu, Yiding and Ai, Qingyao and Wu, Zhijing and Li, Haitao and Liu, Yiqun and Wang, Shuaiqiang and Yin, Dawei and Ma, Shaoping},
+  keywords = {Information Retrieval (cs.IR), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Aligning the Capabilities of Large Language Models with the Context of Information Retrieval via Contrastive Feedback},
+  publisher = {arXiv},
+  year = {2023},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
