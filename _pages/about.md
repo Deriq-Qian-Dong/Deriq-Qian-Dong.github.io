@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home page"
+title: "Qian Dong"
 excerpt: "Home page"
 author_profile: true
 redirect_from: 
