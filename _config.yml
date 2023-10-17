@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qian Dong/THUIR"
+title                    : "THUIR"
 title_separator          : "-"
 name                     : &name "Qian Dong"
 description              : &description "personal description"
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "verymakesense"
   vine             :
   weibo            :
   xing             :
