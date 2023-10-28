@@ -1,0 +1,10 @@
+@inproceedings{Dong_2023,
+	doi = {10.1145/3583780.3614923},
+	url = {https://doi.org/10.1145%2F3583780.3614923},
+	year = 2023,
+	month = {oct},
+	publisher = {{ACM}},
+	author = {Qian Dong and Yiding Liu and Qingyao Ai and Haitao Li and Shuaiqiang Wang and Yiqun Liu and Dawei Yin and Shaoping Ma},
+	title = {I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval},
+	booktitle = {Proceedings of the 32nd {ACM} International Conference on Information and Knowledge Management}
+}
