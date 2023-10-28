@@ -33,6 +33,11 @@ Publications
 
 <h2 align='center'>2023</h2>
 
+| **I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval** |
+| :------ |
+| ***Qian Dong***, Yiding Liu, Qingyao Ai, Haitao Li, Shuaiqiang Wang, Yiqun Liu, Dawei Yin, Shaoping Ma |
+| Proceedings of the 32nd ACM International Conference on Information and Knowledge Management. [\[Paper\]](https://doi.org/gs2pcc) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.1145/3583780.3614923.txt) |
+
 | **T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking** |
 | :------ |
 | Xiaohui Xie, ***Qian Dong***, Bingning Wang, Feiyang Lv, Ting Yao, Weinan Gan, Zhijing Wu, Xiangsheng Li, Haitao Li, Yiqun Liu, Jin Ma |
@@ -48,15 +53,10 @@ Publications
 | Anfeng Cheng, Yiding Liu, Weibin Li, ***Qian Dong***, Shuaiqiang Wang, Zhengjie Huang, Shikun Feng, Zhicong Cheng, Dawei Yin |
 | arXiv. [\[Paper\]](https://doi.org/gsh8pz) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.48550/arXiv.2301.12152.txt) |
 
-| **Social4Rec: Distilling User Preference from Social Graph for Video Recommendation in Tencent** |
+| **Incorporating Social-Aware User Preference for Video Recommendation** |
 | :------ |
 | Xuanji Xiao, Huaqiang Dai, ***Qian Dong***, Shuzi Niu, Yuzhen Liu, Pei Liu |
-| arXiv. [\[Paper\]](https://doi.org/gsh8p2) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.48550/arXiv.2302.09971.txt) |
-
-| **I<sup>3</sup>Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval** |
-| :------ |
-| ***Qian Dong***, Yiding Liu, Qingyao Ai, Haitao Li, Shuaiqiang Wang, Yiqun Liu, Dawei Yin, Shaoping Ma |
-| arXiv. [\[Paper\]](https://doi.org/gsfjp5) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.48550/arXiv.2306.02371.txt) |
+| Web Information Systems Engineering – WISE 2023. [\[Paper\]](https://doi.org/gs2pcb) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.1007/978-981-99-7254-8_42.txt) |
 
 | **Aligning the Capabilities of Large Language Models with the Context of Information Retrieval via Contrastive Feedback** |
 | :------ |
