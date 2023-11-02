@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qian Dong"
+title: "Qian Dong(董骞 in Chinese)"
 excerpt: "Home page"
 author_profile: true
 redirect_from: 
