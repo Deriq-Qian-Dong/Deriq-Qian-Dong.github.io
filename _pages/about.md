@@ -105,8 +105,8 @@ Honor and Awards
 
 More
 ======
-My hobbies mainly focus on OverWatch🎮, movies🎥 and swimming🏊‍♂️.  
-Justice rains from above! ⚡️🚀⚡️🚀⚡️🚀⚡️
+I'm an enthusiast of a diverse array of craft beers, ranging from crisp wheat beers to robust IPAs and everything in between. I'm always on the lookout for exceptional brews from various corners of the globe. Whether it's the refreshing notes of a Belgian Witbier, the hop-forward complexity of an IPA, or the subtle elegance of a Saison, I relish the opportunity to savor and discover the craftsmanship behind each unique flavor profile!🍻
+
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=J7QANnH4LJYLoOu_V6HTux3g537xFQCL00jK2z4-6jg'></script>
