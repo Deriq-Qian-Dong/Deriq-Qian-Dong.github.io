@@ -1,10 +1,7 @@
-@inproceedings{Dong_2022,
-	doi = {10.1145/3477495.3531997},
-	url = {https://doi.org/10.1145%2F3477495.3531997},
-	year = 2022,
-	month = {jul},
-	publisher = {{ACM}},
-	author = {Qian Dong and Yiding Liu and Suqi Cheng and Shuaiqiang Wang and Zhicong Cheng and Shuzi Niu and Dawei Yin},
-	title = {Incorporating Explicit Knowledge in Pre-trained Language Models for Passage Re-ranking},
-	booktitle = {Proceedings of the 45th International {ACM} {SIGIR} Conference on Research and Development in Information Retrieval}
+@inproceedings{dong2022incorporating,
+  title={Incorporating explicit knowledge in pre-trained language models for passage re-ranking},
+  author={Dong, Qian and Liu, Yiding and Cheng, Suqi and Wang, Shuaiqiang and Cheng, Zhicong and Niu, Shuzi and Yin, Dawei},
+  booktitle={Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={1490--1501},
+  year={2022}
 }

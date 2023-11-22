@@ -1,10 +1,6 @@
-@inproceedings{Li_2023,
-	doi = {10.1145/3539618.3591761},
-	url = {https://doi.org/10.1145%2F3539618.3591761},
-	year = 2023,
-	month = {jul},
-	publisher = {{ACM}},
-	author = {Haitao Li and Qingyao Ai and Jia Chen and Qian Dong and Yueyue Wu and Yiqun Liu and Chong Chen and Qi Tian},
-	title = {{SAILER}: Structure-aware Pre-trained Language Model for Legal Case Retrieval},
-	booktitle = {Proceedings of the 46th International {ACM} {SIGIR} Conference on Research and Development in Information Retrieval}
+@article{li2023sailer,
+  title={SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval},
+  author={Li, Haitao and Ai, Qingyao and Chen, Jia and Dong, Qian and Wu, Yueyue and Liu, Yiqun and Chen, Chong and Tian, Qi},
+  journal={arXiv preprint arXiv:2304.11370},
+  year={2023}
 }

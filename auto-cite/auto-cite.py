@@ -4,6 +4,7 @@ from dict_hash import sha256
 import os
 
 import requests
+import gscholar
 
 def get_bibtex_from_doi(doi):
     url = f'https://doi.org/{doi}'
@@ -14,6 +15,14 @@ def get_bibtex_from_doi(doi):
     else:
         print(f"Error: Unable to get BibTeX for DOI: {doi}")
         return 'None'
+
+def get_bibtex_from_title(title):
+    try:
+        return gscholar.query(title)[0]
+    except:
+        print(f"Error: Unable to get BibTeX for title: {title}")
+        return 'None'
+    
 
 directory = os.path.dirname(os.path.realpath(__file__))
 
@@ -106,17 +115,16 @@ for index, source in enumerate(sources):
         log("Using existing citation", 3)
         new_citation = cached
         doi = source.get("id", "").strip()
-        bibtex = get_bibtex_from_doi(doi)
-        save_bibtex(doi, bibtex)
 
     elif source.get("id", "").strip():
         # use Manubot to generate new citation
         log("Using Manubot to generate new citation", 3)
         doi = source.get("id", "").strip()
-        bibtex = get_bibtex_from_doi(doi)
-        save_bibtex(doi, bibtex)
         try:
             new_citation = cite_with_manubot(source)
+            title = new_citation.get("title", "")
+            bibtex = get_bibtex_from_title(title)
+            save_bibtex(doi, bibtex)
         # if Manubot couldn't cite source
         except Exception as e:
             log(e, 3, "red")

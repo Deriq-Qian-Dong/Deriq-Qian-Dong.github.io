@@ -1,10 +1,8 @@
-@incollection{Xiao_2023,
-	doi = {10.1007/978-981-99-7254-8_42},
-	url = {https://doi.org/10.1007%2F978-981-99-7254-8_42},
-	year = 2023,
-	publisher = {Springer Nature Singapore},
-	pages = {544--558},
-	author = {Xuanji Xiao and Huaqiang Dai and Qian Dong and Shuzi Niu and Yuzhen Liu and Pei Liu},
-	title = {Incorporating Social-Aware User Preference for~Video Recommendation},
-	booktitle = {Web Information Systems Engineering {\textendash} {WISE} 2023}
+@inproceedings{xiao2023incorporating,
+  title={Incorporating Social-Aware User Preference for Video Recommendation},
+  author={Xiao, Xuanji and Dai, Huaqiang and Dong, Qian and Niu, Shuzi and Liu, Yuzhen and Liu, Pei},
+  booktitle={International Conference on Web Information Systems Engineering},
+  pages={544--558},
+  year={2023},
+  organization={Springer}
 }

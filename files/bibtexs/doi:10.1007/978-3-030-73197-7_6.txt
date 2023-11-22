@@ -1,10 +1,8 @@
-@incollection{Dong_2021,
-	doi = {10.1007/978-3-030-73197-7_6},
-	url = {https://doi.org/10.1007%2F978-3-030-73197-7_6},
-	year = 2021,
-	publisher = {Springer International Publishing},
-	pages = {88--103},
-	author = {Qian Dong and Shuzi Niu},
-	title = {Latent Graph Recurrent Network for Document Ranking},
-	booktitle = {Database Systems for Advanced Applications}
+@inproceedings{dong2021latent,
+  title={Latent Graph Recurrent Network for Document Ranking},
+  author={Dong, Qian and Niu, Shuzi},
+  booktitle={Database Systems for Advanced Applications: 26th International Conference, DASFAA 2021, Taipei, Taiwan, April 11--14, 2021, Proceedings, Part II 26},
+  pages={88--103},
+  year={2021},
+  organization={Springer}
 }

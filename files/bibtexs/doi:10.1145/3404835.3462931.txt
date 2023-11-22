@@ -1,10 +1,7 @@
-@inproceedings{Dong_2021,
-	doi = {10.1145/3404835.3462931},
-	url = {https://doi.org/10.1145%2F3404835.3462931},
-	year = 2021,
-	month = {jul},
-	publisher = {{ACM}},
-	author = {Qian Dong and Shuzi Niu},
-	title = {Legal Judgment Prediction via Relational Learning},
-	booktitle = {Proceedings of the 44th International {ACM} {SIGIR} Conference on Research and Development in Information Retrieval}
+@inproceedings{dong2021legal,
+  title={Legal judgment prediction via relational learning},
+  author={Dong, Qian and Niu, Shuzi},
+  booktitle={Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={983--992},
+  year={2021}
 }

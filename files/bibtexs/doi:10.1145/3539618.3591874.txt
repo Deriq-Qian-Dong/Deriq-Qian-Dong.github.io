@@ -1,10 +1,6 @@
-@inproceedings{Xie_2023,
-	doi = {10.1145/3539618.3591874},
-	url = {https://doi.org/10.1145%2F3539618.3591874},
-	year = 2023,
-	month = {jul},
-	publisher = {{ACM}},
-	author = {Xiaohui Xie and Qian Dong and Bingning Wang and Feiyang Lv and Ting Yao and Weinan Gan and Zhijing Wu and Xiangsheng Li and Haitao Li and Yiqun Liu and Jin Ma},
-	title = {T2Ranking: A Large-scale Chinese Benchmark for Passage Ranking},
-	booktitle = {Proceedings of the 46th International {ACM} {SIGIR} Conference on Research and Development in Information Retrieval}
+@article{xie2023t2ranking,
+  title={T2Ranking: A large-scale Chinese Benchmark for Passage Ranking},
+  author={Xie, Xiaohui and Dong, Qian and Wang, Bingning and Lv, Feiyang and Yao, Ting and Gan, Weinan and Wu, Zhijing and Li, Xiangsheng and Li, Haitao and Liu, Yiqun and others},
+  journal={arXiv preprint arXiv:2304.03679},
+  year={2023}
 }

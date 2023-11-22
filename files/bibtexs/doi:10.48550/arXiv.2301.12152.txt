@@ -1,10 +1,6 @@
-@misc{https://doi.org/10.48550/arxiv.2301.12152,
-  doi = {10.48550/ARXIV.2301.12152},
-  url = {https://arxiv.org/abs/2301.12152},
-  author = {Cheng, Anfeng and Liu, Yiding and Li, Weibin and Dong, Qian and Wang, Shuaiqiang and Huang, Zhengjie and Feng, Shikun and Cheng, Zhicong and Yin, Dawei},
-  keywords = {Information Retrieval (cs.IR), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Layout-aware Webpage Quality Assessment},
-  publisher = {arXiv},
-  year = {2023},
-  copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International}
+@article{cheng2023layout,
+  title={Layout-aware Webpage Quality Assessment},
+  author={Cheng, Anfeng and Liu, Yiding and Li, Weibin and Dong, Qian and Wang, Shuaiqiang and Huang, Zhengjie and Feng, Shikun and Cheng, Zhicong and Yin, Dawei},
+  journal={arXiv preprint arXiv:2301.12152},
+  year={2023}
 }
