@@ -60,10 +60,6 @@ Publications
 | Xuanji Xiao, Huaqiang Dai, ***Qian Dong***, Shuzi Niu, Yuzhen Liu, Pei Liu |
 | Web Information Systems Engineering – WISE 2023. [\[Paper\]](https://doi.org/gs2pcb) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.1007/978-981-99-7254-8_42.txt) |
 
-| **Aligning the Capabilities of Large Language Models with the Context of Information Retrieval via Contrastive Feedback** |
-| :------ |
-| ***Qian Dong***, Yiding Liu, Qingyao Ai, Zhijing Wu, Haitao Li, Yiqun Liu, Shuaiqiang Wang, Dawei Yin, Shaoping Ma |
-| arXiv. [\[Paper\]](https://doi.org/gss8w3) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.48550/arXiv.2309.17078.txt) |
 
 <h2 align='center'>2022</h2>
 
