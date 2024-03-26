@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 I am now a second year Ph.D. student in [THUIR](http://ai.thuir.cn/), Department of Computer Science and Technology in Tsinghua University (THU), Beijing, China. Before joining THU, I received the B.Eng.(2019) M.Eng.(2022) in South China University of Technology (SCUT) and Institute of Software, Chinese Academy of Sciences (ISCAS) respectively.
-My supervisors are Prof. [Shaoping Ma](http://www.thuir.cn/group/~msp/), Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/) and Prof. [Qingyao Ai](http://www.thuir.cn/group/~aiqy/). My major research interests are about text retrieval/reranking, recommendation, knowledge enhanced pretrained language models for IR, etc.
+My supervisors are Prof. [Shaoping Ma](http://www.thuir.cn/group/~msp/), Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/) and Prof. [Qingyao Ai](http://www.thuir.cn/group/~aiqy/). My major research interests are about large language models, text retrieval/reranking, recommendation, knowledge enhanced pretrained language models for IR, etc.
+
+I also served as a reviewer/PC-member for WWW, CIKM, and COLING.
 
 Education
 ======
@@ -58,7 +60,7 @@ Publications
 | Xuanji Xiao, Huaqiang Dai, ***Qian Dong***, Shuzi Niu, Yuzhen Liu, Pei Liu |
 | Web Information Systems Engineering – WISE 2023. [\[Paper\]](https://doi.org/gs2pcb) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.1007/978-981-99-7254-8_42.txt) |
 
-| **Aligning the Capabilities of Large Language Models with the Context of Information Retrieval via Contrastive Feedback** |
+| **Unsupervised Large Language Model Alignment for Information Retrieval via Contrastive Feedback** |
 | :------ |
 | ***Qian Dong***, Yiding Liu, Qingyao Ai, Zhijing Wu, Haitao Li, Yiqun Liu, Shuaiqiang Wang, Dawei Yin, Shaoping Ma |
 | arXiv. [\[Paper\]](https://doi.org/gss8w3) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.48550/arXiv.2309.17078.txt) |
