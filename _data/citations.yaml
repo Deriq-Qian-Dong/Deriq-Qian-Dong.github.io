@@ -140,7 +140,8 @@
   link: https://doi.org/gs2pcc
   _cache: a4e3234e22b3f0980d2ae14397f863ebebf0dd698cc8d61f188186e0d0a1f796
 - id: doi:10.48550/arXiv.2309.17078
-  title: Unsupervised Large Language Model Alignment for Information Retrieval via Contrastive Feedback
+  title: Unsupervised Large Language Model Alignment for Information Retrieval via
+    Contrastive Feedback
   authors:
   - Qian Dong
   - Yiding Liu
