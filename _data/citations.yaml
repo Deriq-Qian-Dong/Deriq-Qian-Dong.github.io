@@ -140,8 +140,7 @@
   link: https://doi.org/gs2pcc
   _cache: a4e3234e22b3f0980d2ae14397f863ebebf0dd698cc8d61f188186e0d0a1f796
 - id: doi:10.48550/arXiv.2309.17078
-  title: Aligning the Capabilities of Large Language Models with the Context of Information
-    Retrieval via Contrastive Feedback
+  title: Unsupervised Large Language Model Alignment for Information Retrieval via Contrastive Feedback
   authors:
   - Qian Dong
   - Yiding Liu
@@ -152,7 +151,7 @@
   - Shuaiqiang Wang
   - Dawei Yin
   - Shaoping Ma
-  publisher: arXiv
-  date: '2023-01-01'
+  publisher: SIGIR2024
+  date: '2024-07-14'
   link: https://doi.org/gss8w3
   _cache: 78787f712a3a97b1f4e10b53f4e55ce94e903bba8f761576439472836f6e28a5
