@@ -1,6 +1,1 @@
-@article{dong2023aligning,
-  title={Aligning the Capabilities of Large Language Models with the Context of Information Retrieval via Contrastive Feedback},
-  author={Dong, Qian and Liu, Yiding and Ai, Qingyao and Wu, Zhijing and Li, Haitao and Liu, Yiqun and Wang, Shuaiqiang and Yin, Dawei and Ma, Shaoping},
-  journal={arXiv preprint arXiv:2309.17078},
-  year={2023}
-}
+None
