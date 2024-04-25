@@ -40,6 +40,16 @@ Publications
 | ***Qian Dong***, Yiding Liu, Qingyao Ai, Zhijing Wu, Haitao Li, Yiqun Liu, Shuaiqiang Wang, Dawei Yin, Shaoping Ma |
 | SIGIR2024. [\[Paper\]](https://doi.org/gss8w3) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.48550/arXiv.2309.17078.txt) |
 
+| **DELTA: Pre-train a Discriminative Encoder for Legal Case Retrieval via Structural Word Alignment** |
+| :------ |
+| Haitao Li, Qingyao Ai, Xinyan Han, Jia Chen, ***Qian Dong***, Yiqun Liu, Chong Chen, Qi Tian |
+| arXiv. [\[Paper\]](https://doi.org/gtr6jk) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.48550/arXiv.2403.18435.txt) |
+
+| **BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models** |
+| :------ |
+| Haitao Li, Qingyao Ai, Jia Chen, ***Qian Dong***, Zhijing Wu, Yiqun Liu, Chong Chen, Qi Tian |
+| arXiv. [\[Paper\]](https://doi.org/gtr6jm) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.48550/arXiv.2403.18365.txt) |
+
 <h2 align='center'>2023</h2>
 
 | **I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval** |
