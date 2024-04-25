@@ -156,3 +156,35 @@
   date: '2024-07-14'
   link: https://doi.org/gss8w3
   _cache: 78787f712a3a97b1f4e10b53f4e55ce94e903bba8f761576439472836f6e28a5
+- id: doi:10.48550/arXiv.2403.18435
+  title: 'DELTA: Pre-train a Discriminative Encoder for Legal Case Retrieval via Structural
+    Word Alignment'
+  authors:
+  - Haitao Li
+  - Qingyao Ai
+  - Xinyan Han
+  - Jia Chen
+  - Qian Dong
+  - Yiqun Liu
+  - Chong Chen
+  - Qi Tian
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/gtr6jk
+  _cache: 42c25b74a50930bdbd4b5cbb1cca71c2eef1831f0100fc3fb6c377af84a7958b
+- id: doi:10.48550/arXiv.2403.18365
+  title: 'BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific
+    Models'
+  authors:
+  - Haitao Li
+  - Qingyao Ai
+  - Jia Chen
+  - Qian Dong
+  - Zhijing Wu
+  - Yiqun Liu
+  - Chong Chen
+  - Qi Tian
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/gtr6jm
+  _cache: e2c6f27ecdaaef1778afab5bc9b93fa660533b2f542979a2452d79762914d481
