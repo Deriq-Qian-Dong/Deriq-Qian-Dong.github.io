@@ -1,0 +1,6 @@
+@article{li2024delta,
+  title={DELTA: Pre-train a Discriminative Encoder for Legal Case Retrieval via Structural Word Alignment},
+  author={Li, Haitao and Ai, Qingyao and Han, Xinyan and Chen, Jia and Dong, Qian and Liu, Yiqun and Chen, Chong and Tian, Qi},
+  journal={arXiv preprint arXiv:2403.18435},
+  year={2024}
+}
