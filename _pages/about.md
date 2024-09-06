@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<iframe
- src="https://udify.app/chatbot/6CoM85G6spngdgsq"
- style="width: 100%; height: 100%; min-height: 700px"
- frameborder="0"
- allow="microphone">
-</iframe>
-
 I am now a second year Ph.D. student in [THUIR](http://ai.thuir.cn/), Department of Computer Science and Technology in Tsinghua University (THU), Beijing, China. Before joining THU, I received the B.Eng.(2019) M.Eng.(2022) in South China University of Technology (SCUT) and Institute of Software, Chinese Academy of Sciences (ISCAS) respectively.
 My supervisors are Prof. [Shaoping Ma](http://www.thuir.cn/group/~msp/), Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/) and Prof. [Qingyao Ai](http://www.thuir.cn/group/~aiqy/). My major research interests are about large language models, text retrieval/reranking, recommendation, knowledge enhanced pretrained language models for IR, etc.
 
@@ -133,3 +126,18 @@ I'm an enthusiast of a diverse array of craft beers, ranging from crisp wheat be
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=J7QANnH4LJYLoOu_V6HTux3g537xFQCL00jK2z4-6jg'></script>
 
 
+<script>
+ window.difyChatbotConfig = {
+  token: '6CoM85G6spngdgsq'
+ }
+</script>
+<script
+ src="https://udify.app/embed.min.js"
+ id="6CoM85G6spngdgsq"
+ defer>
+</script>
+<style>
+  #dify-chatbot-bubble-button {
+    background-color: #1C64F2 !important;
+  }
+</style>
