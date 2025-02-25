@@ -34,23 +34,6 @@ Experience
 
 Publications
 ======
-<h2 align='center'>2025</h2>
-
-| **Decoupling Knowledge and Context: An Efficient and Effective Retrieval Augmented Generation Framework via Cross Attention** |
-| :------ |
-| ***Qian Dong***, Qingyao Ai, Hongning Wang, Yiding Liu, Haitao Li, Weihang Su, Yiqun Liu, Tat-Seng Chua, Shaoping Ma |
-| WWW2025. [\[Paper\]](https://dongqian.bj.cn/files/DecoupledRAG.pdf) |
-
-
-| **DELTA: Pre-train a Discriminative Encoder for Legal Case Retrieval via Structural Word Alignment** |
-| :------ |
-| Haitao Li, Qingyao Ai, Xinyan Han, Jia Chen, ***Qian Dong***, Yiqun Liu, Chong Chen, Qi Tian |
-| AAAI2025. [\[Paper\]](https://doi.org/gtr6jk) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.48550/arXiv.2403.18435.txt) |
-
-| **BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models** |
-| :------ |
-| Haitao Li, Qingyao Ai, Jia Chen, ***Qian Dong***, Zhijing Wu, Yiqun Liu, Chong Chen, Qi Tian |
-| AAAI2025. [\[Paper\]](https://doi.org/gtr6jm) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.48550/arXiv.2403.18365.txt) |
 
 <h2 align='center'>2024</h2>
 
@@ -58,6 +41,16 @@ Publications
 | :------ |
 | ***Qian Dong***, Yiding Liu, Qingyao Ai, Zhijing Wu, Haitao Li, Yiqun Liu, Shuaiqiang Wang, Dawei Yin, Shaoping Ma |
 | SIGIR2024. [\[Paper\]](https://doi.org/gss8w3) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.48550/arXiv.2309.17078.txt) |
+
+| **DELTA: Pre-train a Discriminative Encoder for Legal Case Retrieval via Structural Word Alignment** |
+| :------ |
+| Haitao Li, Qingyao Ai, Xinyan Han, Jia Chen, ***Qian Dong***, Yiqun Liu, Chong Chen, Qi Tian |
+| arXiv. [\[Paper\]](https://doi.org/gtr6jk) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.48550/arXiv.2403.18435.txt) |
+
+| **BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models** |
+| :------ |
+| Haitao Li, Qingyao Ai, Jia Chen, ***Qian Dong***, Zhijing Wu, Yiqun Liu, Chong Chen, Qi Tian |
+| arXiv. [\[Paper\]](https://doi.org/gtr6jm) [\[BibTeX\]](https://Deriq-Qian-Dong.github.io/files/bibtexs/doi:10.48550/arXiv.2403.18365.txt) |
 
 <h2 align='center'>2023</h2>
 
